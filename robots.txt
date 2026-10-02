@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://online-casino-s-mal-depozitom874.github.io/sitemap.xml
